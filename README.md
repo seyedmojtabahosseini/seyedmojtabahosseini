@@ -3,10 +3,11 @@
 Experte für Datenanalyse und Business Intelligence mit 5 Jahren Erfahrung, spezialisiert auf
 die Erstellung von Managementberichten zur Unterstützung strategischer Entscheidungen
 und Verbesserung der Effizienz.
-⚡ Power BI(DAX, M)
-⚡ SQL-Server(SSIS,SSAS)
-⚡ Python
-⚡ MS Fabric
+
+- ⚡ Power BI(DAX, M)
+- ⚡ SQL-Server(SSIS,SSAS)
+- ⚡ Python
+- ⚡ MS Fabric
 
 <!--
 **seyedmojtabahosseini/seyedmojtabahosseini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
