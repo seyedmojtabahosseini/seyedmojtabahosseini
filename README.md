@@ -7,7 +7,8 @@ und Verbesserung der Effizienz.
 - ⚡ Power BI(DAX, M)
 - ⚡ SQL-Server(SSIS,SSAS)
 - ⚡ Python
-- ⚡ MS Fabric
+- ⚡ MS Fabric(Data Factory, Data Engineering)
+- ⚡ Spark
 
 <!--
 **seyedmojtabahosseini/seyedmojtabahosseini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
